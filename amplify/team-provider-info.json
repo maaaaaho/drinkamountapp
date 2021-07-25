@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify1de2e234a2ea4-staging-153242-authRole",
+      "UnauthRoleArn": "arn:aws:iam::128077181324:role/amplify-amplify1de2e234a2ea4-staging-153242-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::128077181324:role/amplify-amplify1de2e234a2ea4-staging-153242-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplify1de2e234a2ea4-staging-153242-deployment",
+      "UnauthRoleName": "amplify-amplify1de2e234a2ea4-staging-153242-unauthRole",
+      "StackName": "amplify-amplify1de2e234a2ea4-staging-153242",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:128077181324:stack/amplify-amplify1de2e234a2ea4-staging-153242/8d8e3260-ed5d-11eb-ba46-0ead9c7fd213",
+      "AmplifyAppId": "d3hszb487m14x1"
+    },
+    "categories": {
+      "auth": {
+        "drinkamountappe13155d4": {}
+      }
+    }
+  }
+}
